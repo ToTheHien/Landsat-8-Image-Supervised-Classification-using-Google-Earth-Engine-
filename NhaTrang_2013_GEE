@@ -1,12 +1,13 @@
 var image = ee.Image(ee.ImageCollection('LANDSAT/LC08/C01/T1_SR')
-    .filterBounds(roi)
+    .filterBounds(roi) #roi is the geographical coordinate
     .filterDate('2013-03-01', '2013-08-01')
     .median());
-var NT = ee.FeatureCollection("users/manhattanphysik/NhaTrang")   
+var NT = ee.FeatureCollection("users/manhattanphysik/NhaTrang") #The FeatureCollection was import as a shape file of Nha trang area  
 var clip = image.clip(NT);
 Map.addLayer(NT)
 Map.addLayer(clip, {bands: ['B4', 'B3', 'B2'],min:0, max: 3000}, 'True colour image');
 
+#urban, forest, fallow, water were selected manually on the map
 var classNames = urban.merge(forest).merge(fallow).merge(water);
 
 print(classNames)
