@@ -1,3 +1,4 @@
+# Note that the year info can be modified from 2013 to 2015, 2017, etc
 var image = ee.Image(ee.ImageCollection('LANDSAT/LC08/C01/T1_SR')
     .filterBounds(roi) #roi is the geographical coordinate
     .filterDate('2013-03-01', '2013-08-01')
