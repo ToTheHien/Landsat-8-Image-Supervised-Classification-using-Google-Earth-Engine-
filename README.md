@@ -6,4 +6,4 @@ Supervised classification requires classified reference samples in order to trai
 - Timeline: 2013 to 2017
 - Data: Landsat 8
 
-In this project, we examine the land cover/ land use change by supervised classification.
+In this project, we examine the land cover/ land use change by supervised classification on Google Earth Engine.
