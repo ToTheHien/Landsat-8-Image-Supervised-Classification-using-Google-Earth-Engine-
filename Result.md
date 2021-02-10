@@ -6,9 +6,9 @@
 
 ![2013](https://github.com/ToTheHien/Landsat-8-Image-Supervised-Classification/blob/main/images/2013.PNG)
 
-![2013](https://github.com/ToTheHien/Landsat-8-Image-Supervised-Classification/blob/main/images/2013.PNG)
+![2015](https://github.com/ToTheHien/Landsat-8-Image-Supervised-Classification/blob/main/images/2015.PNG)
 
-![2013](https://github.com/ToTheHien/Landsat-8-Image-Supervised-Classification/blob/main/images/2013.PNG)
+![2017](https://github.com/ToTheHien/Landsat-8-Image-Supervised-Classification/blob/main/images/2017.PNG)
 
 From the results, we can recognize the urban area spread to the West from 2013 to 2015.
 
