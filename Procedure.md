@@ -66,5 +66,5 @@ Now the classification get more accurate. Next we use different algorithm to dec
 
 *gmoMaxEnt()*
 
-Those result are list in evaluated order from left to right/ top to bottom. From the real image we clarify that the *gmoMaxEnt()* algorithm is the most pertinent algorithm for our classification
+Those result are list in evaluated order from top to bottom. From the real image we clarify that the *gmoMaxEnt()* algorithm is the most pertinent algorithm for our classification
 
