@@ -54,7 +54,7 @@ Now the classification get more accurate. Next we use different algorithm to dec
 
 *naiveBayes()*
 
-![minimunDistance](https://github.com/ToTheHien/Landsat-8-Image-Supervised-Classification/blob/main/images/minimunDistance.PNG)
+![minimunDistance](https://github.com/ToTheHien/Landsat-8-Image-Supervised-Classification-using-Google-Earth-Engine-/blob/main/images/minimumDistance.PNG)
 
 *minimunDistance()*
 
